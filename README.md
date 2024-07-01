@@ -11,4 +11,7 @@ The iOS Calculator App, developed using Swift and SwiftUI, is a user-friendly ca
 ## 🛠 Skills
 XCode, Swift, SwiftUI
 
+## Previews
 
+![](https://github.com/am301892/iOS-calculator-app/blob/main/iphone-calculator.gif)
+![](https://github.com/am301892/iOS-calculator-app/blob/main/ipad-calculator.gif)
